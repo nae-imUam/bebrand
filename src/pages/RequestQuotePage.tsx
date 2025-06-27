@@ -14,10 +14,10 @@ interface SampleDetails {
 
 // Define the props for RequestQuotePage
 interface RequestQuotePageProps {
-  navigate: (path: string) => void; // Function to navigate programmatically
-  sampleDetails: SampleDetails; // Can be null if not coming from a sample
+  navigate: (page: string, categoryId?: string, sampleDetails?: SampleDetails | null) => void;
+  // Make sampleDetails optional
+  sampleDetails?: SampleDetails | null; // This allows it to be SampleDetails, null, or undefined
 }
-
 const RequestQuotePage: React.FC<RequestQuotePageProps> = ({ navigate, sampleDetails }) => {
   const [formData, setFormData] = useState({
     name: '',
