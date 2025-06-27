@@ -11,7 +11,7 @@ const ServicesPage: React.FC<ServicesPageProps> = ({ navigate }) => {
       <section className="bg-gradient-to-r from-teal-500 to-cyan-600 text-white rounded-3xl p-8 md:p-12 text-center shadow-lg">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">Our Comprehensive Printing Services</h1>
         <p className="text-lg md:text-xl max-w-3xl mx-auto">
-          UniPrint Hub offers a wide range of customization options to meet all your branding needs, from apparel, accessories to promotional items. Click on a service to see samples and pricing!
+          BeBrand offers a wide range of customization options to meet all your branding needs, from apparel, accessories to promotional items. Click on a service to see samples and pricing!
         </p>
       </section>
 
@@ -21,63 +21,63 @@ const ServicesPage: React.FC<ServicesPageProps> = ({ navigate }) => {
             {
               title: 'T-Shirts & Hoodies',
               desc: 'Custom printing for casual wear, team jerseys, event merchandise, and corporate uniforms.',
-              img: 'https://placehold.co/400x300/4F46E5/FFFFFF/PNG?text=T-shirts',
+              img: 'https://i.ibb.co/jvmLF7Sw/be-Brandtshirt2.png?text=T-shirts',
               categoryId: 'Apparel',
               icon: <Shirt size={24} className="text-blue-600" />,
             },
             {
               title: 'Bags & Backpacks',
               desc: 'Personalized tote bags, backpacks, and duffels perfect for promotions, schools, or everyday branding.',
-              img: 'https://placehold.co/400x300/F97316/FFFFFF/PNG?text=Bags',
+              img: 'https://i.ibb.co/G4RL1HwZ/be-Brand-Bags2.png?text=Bags',
               categoryId: 'Bags',
               icon: <Briefcase size={24} className="text-orange-600" />,
             },
             {
               title: 'Umbrellas & Caps',
               desc: 'High-quality printing on umbrellas, caps, and hats, ideal for outdoor events and brand visibility.',
-              img: 'https://placehold.co/400x300/06B6D4/FFFFFF/PNG?text=Umbrellas',
+              img: 'https://i.ibb.co/rLYhYcL/be-Brand-Umb4.png?text=Umbrellas',
               categoryId: 'Accessories',
               icon: <FlaskConical size={24} className="text-cyan-600" />,
             },
             {
               title: 'Custom Footwear',
               desc: 'Unique designs on shoes for sports teams, school events, or a distinctive brand statement.',
-              img: 'https://placehold.co/400x300/EF4444/FFFFFF/PNG?text=Footwear',
+              img: 'https://i.ibb.co/jPrszg4H/be-Brandsportshoes.png?text=Footwear',
               categoryId: 'Footwear',
               icon: <Footprints size={24} className="text-red-600" />,
             },
             {
               title: 'Sportswear & Uniforms',
               desc: 'Durable and breathable printing for sports jerseys, tracksuits, shorts, and performance wear.',
-              img: 'https://placehold.co/400x300/22C55E/FFFFFF/PNG?text=Sportswear',
+              img: 'https://i.ibb.co/hxZs5PmM/be-Brandtshirt.png?text=Sportswear',
               categoryId: 'Apparel',
               icon: <Shirt size={24} className="text-green-600" />,
             },
             {
               title: 'Pants, Lowers & Uppers',
               desc: 'Comprehensive branding solutions for all types of clothing, ensuring consistency across your apparel.',
-              img: 'https://placehold.co/400x300/A855F7/FFFFFF/PNG?text=Pants+Uppers',
+              img: 'https://i.ibb.co/NgFWKj7F/be-Brand-Upper.png?text=Pants+Uppers',
               categoryId: 'Apparel',
               icon: <Shirt size={24} className="text-purple-600" />,
             },
             {
               title: 'Coaching & School Gear',
               desc: 'Specialized printing for coaching bibs, training cones, school bags, and stationery items.',
-              img: 'https://placehold.co/400x300/F59E0B/FFFFFF/PNG?text=School+Gear',
+              img: 'https://i.ibb.co/kntNPWQ/be-Brandsporting.png?text=School+Gear',
               categoryId: 'SportsCoaching',
               icon: <Award size={24} className="text-yellow-600" />,
             },
             {
               title: 'Mugs & Drinkware',
               desc: 'Custom mugs, bottles, and tumblers – perfect for corporate gifts or personal use.',
-              img: 'https://placehold.co/400x300/3B82F6/FFFFFF/PNG?text=Mugs',
+              img: 'https://i.ibb.co/RGBnJ22t/be-Brand-Mugs.png?text=Mugs',
               categoryId: 'Drinkware',
               icon: <FlaskConical size={24} className="text-indigo-600" />,
             },
             {
               title: 'Promotional Items',
               desc: 'Boost your brand with custom pens, keychains, notebooks, and other highly effective giveaways.',
-              img: 'https://placehold.co/400x300/EC4899/FFFFFF/PNG?text=Promotional+Items',
+              img: 'https://i.ibb.co/ns0r2C2N/be-Brand-Notebooks.png?text=Promotional+Items',
               categoryId: 'Promotional',
               icon: <PenTool size={24} className="text-pink-600" />,
             },

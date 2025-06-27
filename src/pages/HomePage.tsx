@@ -11,7 +11,7 @@ const HomePage: React.FC<HomePageProps> = ({ navigate }) => (
   <div className="space-y-12">
     {/* Hero Section */}
     <section className="relative bg-gradient-to-br from-blue-100 to-purple-100 rounded-3xl p-8 md:p-16 text-center shadow-xl overflow-hidden">
-      <div className="absolute inset-0 bg-cover bg-center opacity-30" style={{ backgroundImage: "url('https://placehold.co/1200x600/6366F1/FFFFFF/PNG?text=Your+Brand+Visuals')" }}></div>
+      {/* <div className="absolute inset-0 bg-cover bg-center opacity-30" style={{ backgroundImage: "url('https://i.ibb.co/mF5CzC1T/be-Brand-Prom.png?text=Your+Brand+Visuals')" }}></div> */}
       <div className="relative z-10">
         <h1 className="text-4xl md:text-6xl font-extrabold text-blue-800 mb-4 leading-tight animate-fade-in-up">
           <span className="block text-indigo-700">Custom Prints,</span> <span className="block text-blue-600">Unleash Your Brand!</span>
@@ -19,6 +19,7 @@ const HomePage: React.FC<HomePageProps> = ({ navigate }) => (
         <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-2xl mx-auto animate-fade-in-up delay-100">
           From T-shirts to Umbrellas, we bring your vision to life for sports teams, schools, and businesses.
         </p>
+        <img src='https://i.ibb.co/mF5CzC1T/be-Brand-Prom.png?text=Your+Brand+Visuals' alt="beBrand Promotional Image" className="mb-6 rounded-lg shadow-lg animate-fade-in-up delay-200" />
         <button
           onClick={() => navigate('services')}
           className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full shadow-lg transform transition duration-300 hover:scale-105 inline-flex items-center group animate-fade-in-up delay-200"
@@ -34,32 +35,32 @@ const HomePage: React.FC<HomePageProps> = ({ navigate }) => (
       <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 mb-10">Popular Printing Categories</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <ServiceCard
-          image="https://placehold.co/400x300/4F46E5/FFFFFF/PNG?text=T-shirts"
+          image="https://i.ibb.co/jvmLF7Sw/be-Brandtshirt2.png?text=T-shirts"
           title="Apparel & Uniforms"
           description="Custom T-shirts, jerseys, hoodies, and more for teams and events."
         />
         <ServiceCard
-          image="https://placehold.co/400x300/F97316/FFFFFF/PNG?text=Bags"
+          image="https://i.ibb.co/PvgnbDp2/be-Brand-Bags2.png?text=Bags"
           title="Bags & Accessories"
           description="Branded bags, backpacks, and promotional items for everyday use."
         />
         <ServiceCard
-          image="https://placehold.co/400x300/06B6D4/FFFFFF/PNG?text=Umbrellas"
+          image="https://i.ibb.co/rRX1W3rg/be-Brand-Umb5.png?text=Umbrellas"
           title="Outdoor & Promotional"
           description="Custom umbrellas, caps, and outdoor gear to make a statement."
         />
         <ServiceCard
-          image="https://placehold.co/400x300/EF4444/FFFFFF/PNG?text=Footwear"
+          image="https://i.ibb.co/60BgwJqJ/be-Brand-Shoes.png?text=Footwear"
           title="Custom Footwear"
           description="Personalized shoes for sports, school events, or unique branding."
         />
         <ServiceCard
-          image="https://placehold.co/400x300/22C55E/FFFFFF/PNG?text=Sports+Gear"
+          image="https://i.ibb.co/kntNPWQ/be-Brandsporting.png?text=Sports+Gear"
           title="Sports & Coaching Gear"
           description="Tailored printing for sports equipment, training apparel, and more."
         />
         <ServiceCard
-          image="https://placehold.co/400x300/A855F7/FFFFFF/PNG?text=School+Supplies"
+          image="https://i.ibb.co/NdMfdHC3/be-Brandimas.png?text=School+Supplies"
           title="School & Institution Needs"
           description="Branded school uniforms, stationery, and event accessories."
         />

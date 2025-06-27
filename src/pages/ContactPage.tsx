@@ -115,18 +115,18 @@ const ContactPage = () => {
           <div className="space-y-4 text-gray-700 text-lg">
             <p className="flex items-center">
               <Phone size={24} className="mr-3 text-blue-600" />
-              <span>+1 (123) 456-7890</span>
+              <span>+91 99733 58663</span>
             </p>
             <p className="flex items-center">
               <Mail size={24} className="mr-3 text-blue-600" />
-              <span>info@uniprinthub.com</span>
+              <span>bebrand@gmail.com</span>
             </p>
             <p className="flex items-start">
               <MapPin size={24} className="mr-3 text-blue-600 mt-1" />
               <span>
-                123 Print Street, <br />
-                Custom City, PC 12345, <br />
-                Country
+                123 Subhaspalli, <br />
+                Kishanganj(Bihar), PIN 855116, <br />
+                India
               </span>
             </p>
             <div className="mt-6">

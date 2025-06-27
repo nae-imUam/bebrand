@@ -59,7 +59,7 @@ const AboutPage: React.FC = () => {
         </div>
         <div className="lg:order-1 flex justify-center items-center">
           <img
-            src="https://images.unsplash.com/photo-1579781395893-6c8411b0e517?q=80&w=2832&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" // Image of hands working on design/print or vibrant Indian art
+            src="https://i.ibb.co/Kxyh0cSp/bebrand-journey.png" // Image of hands working on design/print or vibrant Indian art
             alt="The beBrand Journey"
             className="rounded-2xl shadow-xl w-full max-w-lg h-auto object-cover transform transition duration-500 hover:scale-105"
             loading="lazy"
@@ -161,7 +161,7 @@ const AboutPage: React.FC = () => {
           {/* Example Team Member Card 1 */}
           <div className="flex flex-col items-center p-6 bg-gray-50 rounded-lg shadow-sm hover:shadow-lg transition-shadow duration-300 transform hover:-translate-y-1">
             <img
-              src="https://via.placeholder.com/150/FCA5A5/FFFFFF?text=Priya" // Consider diverse, authentic Indian team photos
+              src="https://i.ibb.co/ynTX8Cmm/priya.png" // Consider diverse, authentic Indian team photos
               alt="Priya Sharma"
               className="w-32 h-32 rounded-full object-cover mb-4 ring-4 ring-teal-300 transform transition duration-300 hover:scale-105"
               loading="lazy"
@@ -175,7 +175,7 @@ const AboutPage: React.FC = () => {
           {/* Example Team Member Card 2 */}
           <div className="flex flex-col items-center p-6 bg-gray-50 rounded-lg shadow-sm hover:shadow-lg transition-shadow duration-300 transform hover:-translate-y-1">
             <img
-              src="https://via.placeholder.com/150/93C5FD/FFFFFF?text=Rajesh" // Consider diverse, authentic Indian team photos
+              src="https://i.ibb.co/QjfsznWc/Rajesh.png" // Consider diverse, authentic Indian team photos
               alt="Rajesh Kumar"
               className="w-32 h-32 rounded-full object-cover mb-4 ring-4 ring-teal-300 transform transition duration-300 hover:scale-105"
               loading="lazy"
@@ -189,7 +189,7 @@ const AboutPage: React.FC = () => {
           {/* Example Team Member Card 3 */}
           <div className="flex flex-col items-center p-6 bg-gray-50 rounded-lg shadow-sm hover:shadow-lg transition-shadow duration-300 transform hover:-translate-y-1">
             <img
-              src="https://via.placeholder.com/150/A78BFA/FFFFFF?text=Deepa" // Consider diverse, authentic Indian team photos
+              src="https://i.ibb.co/SXydN3MG/Deepa.png" // Consider diverse, authentic Indian team photos
               alt="Deepa Singh"
               className="w-32 h-32 rounded-full object-cover mb-4 ring-4 ring-teal-300 transform transition duration-300 hover:scale-105"
               loading="lazy"
