@@ -19,7 +19,7 @@ const HomePage: React.FC<HomePageProps> = ({ navigate }) => (
         <p className="text-lg md:text-xl text-gray-700 mb-8 max-w-2xl mx-auto animate-fade-in-up delay-100">
           From T-shirts to Umbrellas, we bring your vision to life for sports teams, schools, and businesses.
         </p>
-        <img src='https://i.ibb.co/mF5CzC1T/be-Brand-Prom.png?text=Your+Brand+Visuals' alt="beBrand Promotional Image" className="mb-6 rounded-lg shadow-lg animate-fade-in-up delay-200" />
+        <img loading="lazy" src='https://i.ibb.co/mF5CzC1T/be-Brand-Prom.png?text=Your+Brand+Visuals' alt="beBrand Promotional Image" className="mb-6 rounded-lg shadow-lg animate-fade-in-up delay-200" />
         <button
           onClick={() => navigate('services')}
           className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-full shadow-lg transform transition duration-300 hover:scale-105 inline-flex items-center group animate-fade-in-up delay-200"
