@@ -43,7 +43,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Classic Cotton Tee',
           img: 'https://i.ibb.co/1GFLyqY9/be-Brandcotshirt.png?text=Team+Tee+Sample',
           description: 'Soft cotton tee with durable screen print for sports teams, clubs, and events. Excellent for everyday wear.',
-          price: '₹155.99/unit',
+          price: '₹105.99/unit',
           moq: '50 units',
           features: ['100% Pre-shrunk Cotton', 'Vibrant Screen Printing', 'Unisex Fit', 'Comfortable & Breathable']
         },
@@ -52,7 +52,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Performance Dry-Fit Polo',
           img: 'https://i.ibb.co/ksvjkbXw/be-Brandpolo.png?text=Polo+Shirt+Sample',
           description: 'Moisture-wicking polo for coaching staff, corporate events, and active teams. Features an elegant embroidered logo option.',
-          price: '₹258.50/unit',
+          price: '₹208.50/unit',
           moq: '30 units',
           features: ['Quick-Dry Fabric', 'Embroidered Logo Option', 'Breathable Design', 'Professional Look']
         },
@@ -61,7 +61,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Premium Fleece Hoodie',
           img: 'https://i.ibb.co/ndbHvzs/be-Brand-Hoodie2.png?text=Hoodie+Sample',
           description: 'Warm and comfortable hoodie with large back print for school clubs, university societies, or promotional giveaways.',
-          price: '₹355.00/unit',
+          price: '₹305.00/unit',
           moq: '25 units',
           features: ['Heavy Blend Fleece', 'Large Print Area', 'Kangaroo Pocket', 'Ideal for Winter Promotions']
         },
@@ -70,7 +70,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom V-Neck T-Shirt',
           img: 'https://i.ibb.co/KcGKPdLr/be-Brand-Vneck2.png?text=V-Neck+Tee',
           description: 'Stylish V-neck T-shirt, perfect for fashion-forward brands or event staff. Soft and flattering fit.',
-          price: '₹157.50/unit',
+          price: '₹107.50/unit',
           moq: '50 units',
           features: ['Soft Cotton Blend', 'Modern V-Neck Design', 'Comfort & Style', 'Retail-Ready Quality']
         },
@@ -79,7 +79,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Long Sleeve Performance Top',
           img: 'https://i.ibb.co/HvBkMrD/be-Brandlongsleev.png?text=Long+Sleeve+Top',
           description: 'Lightweight and breathable long-sleeve top for sports training or casual wear. Provides sun protection.',
-          price: '₹252.00/unit',
+          price: '₹202.00/unit',
           moq: '40 units',
           features: ['UV Protection', 'Moisture-Wicking', 'Athletic Fit', 'Ideal for Outdoor Activities']
         },
@@ -88,7 +88,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Team Basketball Jersey',
           img: 'https://i.ibb.co/qMQM1nkS/Gemini-Generated-Image-iuzy1wiuzy1wiuzy.png?text=Basketball+Jersey',
           description: 'Fully customizable basketball jersey with team name, numbers, and logos. Durable and designed for performance.',
-          price: '₹455.00/unit',
+          price: '₹405.00/unit',
           moq: '15 units',
           features: ['Reversible Options', 'Durable Mesh Fabric', 'Full Customization', 'Pro-Level Quality']
         },
@@ -104,7 +104,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Branded Canvas Tote Bag',
           img: 'https://i.ibb.co/27BtPpQx/Gemini-Generated-Image-ifr2vvifr2vvifr2.png?text=Tote+Bag+Sample',
           description: 'Eco-friendly, sturdy canvas tote bag. Excellent for retail, events, and sustainable branding. Large print area.',
-          price: '₹85.75/unit',
+          price: '₹80.75/unit',
           moq: '100 units',
           features: ['Recycled Canvas', 'Spacious Compartment', 'Custom Handle Colors', 'Reusable & Durable']
         },
@@ -113,7 +113,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom Drawstring Sport Bag',
           img: 'https://i.ibb.co/HTFvLxZC/Gemini-Generated-Image-5ngxqc5ngxqc5ngx.png?text=Drawstring+Bag',
           description: 'Lightweight and durable drawstring bag, ideal for sports teams, school activities, or gym promotions. Easy to carry.',
-          price: '₹55.20/unit',
+          price: '₹50.20/unit',
           moq: '75 units',
           features: ['Durable Polyester', 'Easy Cinch Closure', 'Vibrant Print', 'Lightweight & Versatile']
         },
@@ -122,7 +122,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Personalized Laptop Backpack',
           img: 'https://i.ibb.co/7tcTRx1y/Gemini-Generated-Image-qtqi45qtqi45qtqi.png?text=Laptop+Backpack',
           description: 'High-quality backpack with padded laptop compartment, perfect for corporate employees or school use. Custom logo embroidery.',
-          price: '₹450.00/unit',
+          price: '₹400.00/unit',
           moq: '20 units',
           features: ['Padded Laptop Sleeve', 'Multiple Compartments', 'Comfortable Straps', 'Professional Appeal']
         },
@@ -131,7 +131,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Travel Duffel Bag',
           img: 'https://i.ibb.co/yjQKdfb/Gemini-Generated-Image-jd0f30jd0f30jd0f.png?text=Duffel+Bag',
           description: 'Spacious duffel bag for travel, sports, or weekend trips. Ideal for team kits or employee recognition gifts.',
-          price: '₹350.00/unit',
+          price: '₹300.00/unit',
           moq: '25 units',
           features: ['Large Capacity', 'Durable Material', 'Detachable Shoulder Strap', 'Versatile Use']
         },
@@ -143,20 +143,131 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
       icon: <FlaskConical size={20} className="mr-2" />, // Reusing FlaskConical for a generic icon
       samples: [
         {
-          id: 6,
-          name: 'Embroidered Baseball Cap',
-          img: 'https://i.ibb.co/TMGk21HY/Gemini-Generated-Image-flkrwlflkrwlflkr.png?text=Cap+Sample',
-          description: 'Classic baseball cap with custom embroidered logo. Ideal for outdoor events, team wear, or brand promotion.',
-          price: '₹152.00/unit',
-          moq: '50 units',
-          features: ['100% Cotton Twill', 'Adjustable Strap', 'High-Quality Embroidery', 'Universal Appeal']
-        },
+        "id": 6,
+        "name": "Classic Promotional Umbrella",
+        "img": "https://i.ibb.co/VY2T2zbk/Gemini-Generated-Image-v92ok4v92ok4v92o-1.png",
+        "description": "Our most popular custom-branded umbrella, ideal for corporate giveaways, events, and brand visibility. Features a durable construction and ample canopy space for your logo.",
+        "price": "₹250.00/unit",
+        "moq": "30 units",
+        "features": [
+            "High-Quality Water-Resistant Fabric",
+            "Sturdy Metal Frame",
+            "Custom Logo Printing (Up to 3 Colors)",
+            "Comfortable Ergonomic Handle",
+            "Generous 42-inch Arc Canopy"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Compact Folding Umbrella",
+        "img": "https://i.ibb.co/svPVfZXG/Gemini-Generated-Image-vjmttjvjmttjvjmt-1.png",
+        "description": "Convenient and portable, this compact folding umbrella is perfect for on-the-go professionals and commuters. Easily fits into bags and briefcases, making it a highly appreciated corporate gift.",
+        "price": "₹220.00/unit",
+        "moq": "50 units",
+        "features": [
+            "Automatic Open/Close Function",
+            "Wind-Resistant Design",
+            "Compact Travel Size",
+            "Full-Color Sublimation Printing",
+            "Matching Storage Sleeve"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Golf/Event Umbrella",
+        "img": "https://i.ibb.co/RkgHtty6/Gemini-Generated-Image-vs1izivs1izivs1i.png",
+        "description": "Designed for maximum coverage and durability, this large golf umbrella is excellent for outdoor events, golf tournaments, and providing shelter for multiple people. Offers prominent branding opportunities.",
+        "price": "₹450.00/unit",
+        "moq": "20 units",
+        "features": [
+            "Extra-Large 60-inch Arc Canopy",
+            "Double Canopy for Wind Venting",
+            "Fiberglass Frame for Strength",
+            "Custom Panel Printing",
+            "Non-Slip Rubberized Handle"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Inverted/Reverse Umbrella",
+        "img": "https://i.ibb.co/L7PsD2C/Gemini-Generated-Image-vjmttjvjmttjvjmt-2.png",
+        "description": "Revolutionary inverted design that keeps you dry by folding the wet side inwards. A modern and functional promotional item that demonstrates innovation.",
+        "price": "₹380.00/unit",
+        "moq": "25 units",
+        "features": [
+            "No-Drip Reverse Folding Mechanism",
+            "C-Shape Hands-Free Handle",
+            "UV Protection Layer",
+            "Vibrant Interior Custom Print",
+            "Durable Rib Construction"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Luxury Executive Umbrella",
+        "img": "https://i.ibb.co/xtVY04V7/Gemini-Generated-Image-jl66y6jl66y6jl66.png",
+        "description": "An elegant and high-end umbrella crafted for executive gifts and premium branding. Features a sophisticated design with superior materials for a lasting impression.",
+        "price": "₹750.00/unit",
+        "moq": "15 units",
+        "features": [
+            "Premium Pongee Fabric",
+            "Wood or Leather Handle Options",
+            "Engraved Logo Plate Available",
+            "Strong Windproof Frame",
+            "Comes with Presentation Sleeve"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Eco-Friendly RPET Umbrella",
+        "img": "https://i.ibb.co/gZ83y4GP/Gemini-Generated-Image-jaiqb2jaiqb2jaiq.png",
+        "description": "Promote your brand responsibly with this eco-friendly umbrella made from recycled PET plastic bottles. A sustainable choice for environmentally conscious companies and events.",
+        "price": "₹300.00/unit",
+        "moq": "40 units",
+        "features": [
+            "Canopy Made from Recycled Materials",
+            "Sustainable Branding Option",
+            "Durable and Functional Design",
+            "Custom Logo Printing",
+            "Standard Arc Size"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Fiberglass Frame Umbrella",
+        "img": "https://i.ibb.co/TxZk6JMv/Gemini-Generated-Image-ywtamrywtamrywta.png",
+        "description": "Lightweight yet incredibly strong, this umbrella features a fiberglass frame that offers superior wind resistance. An excellent choice for longevity and performance in adverse weather.",
+        "price": "₹320.00/unit",
+        "moq": "35 units",
+        "features": [
+            "Lightweight Fiberglass Frame",
+            "High Wind Resistance",
+            "Manual Open Mechanism",
+            "Custom Panel Printing",
+            "Comfort Grip Handle"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Kids Promotional Umbrella",
+        "img": "https://i.ibb.co/q8Bh3RZ/Gemini-Generated-Image-an7fm4an7fm4an7f.png",
+        "description": "Fun and colorful umbrellas designed specifically for children, perfect for school events, children's brands, or family-focused promotions. Features child-safe mechanisms and playful designs.",
+        "price": "₹180.00/unit",
+        "moq": "60 units",
+        "features": [
+            "Child-Safe Pinch-Proof Runner",
+            "Bright and Engaging Colors",
+            "Lightweight and Easy to Carry",
+            "Custom Cartoon/Character Printing",
+            "Small, Manageable Size"
+        ]
+    },
         {
           id: 18,
           name: 'Custom Printed Socks',
           img: 'https://i.ibb.co/dwHh1zhQ/Gemini-Generated-Image-fb609mfb609mfb60.png?text=Custom+Socks',
           description: 'Fun and unique custom printed socks. Great for team spirit, quirky giveaways, or branded merchandise.',
-          price: '₹95.50/pair',
+          price: '₹90.50/pair',
           moq: '60 pairs',
           features: ['Comfortable Blend', 'Full Color Printing', 'Unique Branding', 'Memorable Gift']
         },
@@ -165,7 +276,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Sublimated Lanyard',
           img: 'https://i.ibb.co/39SDrK0Y/Gemini-Generated-Image-fg9wowfg9wowfg9w.png?text=Lanyard+Sample',
           description: 'Full-color sublimated lanyards for conferences, staff IDs, or event passes. Highly customizable.',
-          price: '₹35.00/unit',
+          price: '₹30.00/unit',
           moq: '100 units',
           features: ['Durable Polyester', 'Vibrant Full-Color Print', 'Various Attachments', 'Event Essential']
         },
@@ -181,7 +292,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Large Golf Umbrella',
           img: 'https://i.ibb.co/RkgHtty6/Gemini-Generated-Image-vs1izivs1izivs1i.png?text=Umbrella+Sample',
           description: 'Large, windproof umbrella with multiple panel printing. Perfect for corporate gifts, outdoor events, and strong brand visibility.',
-          price: '₹455.00/unit',
+          price: '₹405.00/unit',
           moq: '20 units',
           features: ['Auto Open Mechanism', 'Fiberglass Frame', 'Multiple Print Panels', 'Weather Resistant']
         },
@@ -190,7 +301,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom Insulated Tumbler',
           img: 'https://placehold.co/600x400/3B82F6/FFFFFF/PNG?text=Tumbler+Sample',
           description: 'Keep drinks hot or cold with your custom logo. Perfect for office, travel, or client appreciation gifts.',
-          price: '₹158.00/unit',
+          price: '₹108.00/unit',
           moq: '40 units',
           features: ['Double-Wall Insulation', 'Stainless Steel', 'Laser Engraving/Print', 'Premium Feel']
         },
@@ -199,7 +310,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Branded Ceramic Mug',
           img: 'https://i.ibb.co/hFTsVNtm/Gemini-Generated-Image-y3ez0by3ez0by3ez.png?text=Ceramic+Mug',
           description: 'Classic ceramic mug with your custom design. Ideal for office use, coffee shops, or promotional giveaways.',
-          price: '₹75.50/unit',
+          price: '₹70.50/unit',
           moq: '50 units',
           features: ['Microwave Safe', 'Dishwasher Safe', 'Vibrant Print Quality', 'Everyday Brand Exposure']
         },
@@ -208,7 +319,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Sport Water Bottle',
           img: 'https://i.ibb.co/NnK4YXcH/Gemini-Generated-Image-lvh8x5lvh8x5lvh8.png?text=Sport+Bottle',
           description: 'Durable, BPA-free sport water bottle with full-color logo printing. Essential for gyms, sports teams, and active lifestyles.',
-          price: '₹150.50/unit',
+          price: '₹100.50/unit',
           moq: '60 units',
           features: ['BPA-Free Plastic', 'Leak-Proof Lid', 'Ergonomic Design', 'Promotes Healthy Habits']
         },
@@ -224,7 +335,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Branded Ballpoint Pens',
           img: 'https://i.ibb.co/hJQbmTpv/Gemini-Generated-Image-80916g80916g8091.png?text=Branded+Pens',
           description: 'Affordable and effective way to promote your brand. Ideal for conferences, trade shows, and mass giveaways. High brand recall.',
-          price: '₹15.50/unit',
+          price: '₹10.50/unit',
           moq: '200 units',
           features: ['Smooth Writing', 'Multiple Color Options', 'Durable Print', 'Cost-Effective Marketing']
         },
@@ -233,7 +344,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom Logo Keychains',
           img: 'https://i.ibb.co/wFP215nf/Gemini-Generated-Image-sfcsxgsfcsxgsfcs.png?text=Custom+Keychains',
           description: 'Keep your brand in hand with personalized keychains. Great for everyday visibility and a lasting impression.',
-          price: '₹25.25/unit',
+          price: '₹20.25/unit',
           moq: '150 units',
           features: ['Durable Material', 'Various Shapes Available', 'Clear Branding', 'Long-Lasting Exposure']
         },
@@ -242,7 +353,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Branded Spiral Notebooks',
           img: 'https://i.ibb.co/Csz3TRjY/Gemini-Generated-Image-loiv95loiv95loiv.png?text=Branded+Notebooks',
           description: 'Professional notebooks with your logo. Perfect for corporate events, client gifts, or internal team use.',
-          price: '₹65.00/unit',
+          price: '₹60.00/unit',
           moq: '75 units',
           features: ['High-Quality Paper', 'Custom Cover Design', 'Useful & Practical', 'Enhances Professional Image']
         },
@@ -251,7 +362,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom USB Flash Drives',
           img: 'https://i.ibb.co/KxWNt4wr/Gemini-Generated-Image-l3al9tl3al9tl3al.png?text=Custom+USB',
           description: 'A tech-savvy promotional item for data sharing and maximum brand exposure. Available in various capacities.',
-          price: '₹150.00/unit',
+          price: '₹100.00/unit',
           moq: '50 units',
           features: ['Various Capacities', 'Sleek Design', 'Functional Gift', 'Modern & Tech-Savvy Branding']
         },
@@ -260,7 +371,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom Stress Balls',
           img: 'https://i.ibb.co/tTW4zLDP/Gemini-Generated-Image-4pu2j94pu2j94pu2.png?text=Stress+Ball',
           description: 'Fun and interactive stress relief with your brand logo. A memorable giveaway for any event or office.',
-          price: '₹35.50/unit',
+          price: '₹30.50/unit',
           moq: '100 units',
           features: ['Ergonomic Design', 'Various Shapes', 'Interactive Marketing', 'Reduces Stress']
         },
@@ -269,7 +380,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Branded Sticky Notes',
           img: 'https://i.ibb.co/MkCCjn8h/Gemini-Generated-Image-m2jz4qm2jz4qm2jz.png?text=Sticky+Notes',
           description: 'Keep your brand top-of-mind with custom sticky notes. Essential for office and study use.',
-          price: '₹25.00/pad',
+          price: '₹20.00/pad',
           moq: '100 pads',
           features: ['Strong Adhesive', 'Various Sizes', 'Practical Desk Item', 'Daily Brand Reminder']
         },
@@ -285,7 +396,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom Branded Sneakers',
           img: 'https://i.ibb.co/fG25rzFF/Gemini-Generated-Image-7982zv7982zv7982.png?text=Custom+Sneakers',
           description: 'Unique, personalized sneakers for sports teams, special events, or bold brand representation. Stand out from the crowd.',
-          price: '₹755.00/pair',
+          price: '₹705.00/pair',
           moq: '10 pairs',
           features: ['High-Quality Materials', 'Full Custom Print Area', 'Comfortable & Durable', 'Exclusive Branding']
         },
@@ -294,7 +405,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Team Flip-Flops',
           img: 'https://i.ibb.co/6qkDXZw/bebrand-Shoes2.png?text=Team+Flip-Flops',
           description: 'Custom printed flip-flops, great for sports teams, beach events, or summer promotions. Light and comfortable.',
-          price: '₹152.00/pair',
+          price: '₹102.00/pair',
           moq: '30 pairs',
           features: ['Comfortable Sole', 'Durable Strap', 'Vibrant Print', 'Casual Brand Exposure']
         },
@@ -310,7 +421,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Numbered Training Bibs',
           img: 'https://i.ibb.co/m5jR7TWT/Gemini-Generated-Image-krqn51krqn51krqn.png?text=Training+Bibs',
           description: 'Lightweight and durable training bibs with custom numbers and logos for sports teams and coaching academies.',
-          price: '₹85.00/unit',
+          price: '₹80.00/unit',
           moq: '20 units',
           features: ['Breathable Mesh', 'Fade-Resistant Print', 'Multiple Colors', 'Enhances Team Coordination']
         },
@@ -319,7 +430,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom Sports Towels',
           img: 'https://i.ibb.co/TMj6kW9y/Gemini-Generated-Image-jo5j6sjo5j6sjo5j.png?text=Sports+Towel',
           description: 'Highly absorbent sports towels with embroidered or printed logos. Perfect for gyms, sports clubs, or event participants.',
-          price: '₹155.00/unit',
+          price: '₹105.00/unit',
           moq: '30 units',
           features: ['Quick-Dry Microfiber', 'Soft & Absorbent', 'Durable Branding', 'Practical & Premium']
         },
@@ -328,7 +439,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Branded Coaching Boards',
           img: 'https://i.ibb.co/QFHwqY7n/Gemini-Generated-Image-ebyqzkebyqzkebyq.png?text=Coaching+Board',
           description: 'Customizable coaching boards for strategy and drills. Essential for any coach or team leader.',
-          price: '₹255.00/unit',
+          price: '₹205.00/unit',
           moq: '10 units',
           features: ['Dry-Erase Surface', 'Custom Layouts', 'Durable Construction', 'Strategic Tool']
         },
@@ -344,7 +455,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Custom School Bags',
           img: 'https://i.ibb.co/HfwcbNjP/Gemini-Generated-Image-k86c9rk86c9rk86c.png?text=School+Bag',
           description: 'Durable school backpacks with embroidered school crests or logos. Comfortable and spacious for students.',
-          price: '₹358.00/unit',
+          price: '₹308.00/unit',
           moq: '20 units',
           features: ['Reinforced Stitching', 'Padded Straps', 'Multiple Pockets', 'School Spirit Builder']
         },
@@ -353,7 +464,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
           name: 'Personalized Graduation Stoles',
           img: 'https://i.ibb.co/PZ12h4Jn/Gemini-Generated-Image-w4h868w4h868w4h8.png?text=Graduation+Stole',
           description: 'High-quality graduation stoles with custom embroidery for school or university ceremonies. A lasting memento.',
-          price: '₹250.00/unit',
+          price: '₹200.00/unit',
           moq: '20 units',
           features: ['Premium Satin Fabric', 'Detailed Embroidery', 'Commemorative Item', 'School Pride']
         },
@@ -393,7 +504,7 @@ const SamplesPage: React.FC<SamplesPageProps> = ({ navigate, initialSelectedCate
               key={category.id}
               onClick={() => setSelectedCategory(category.id)}
               className={`flex items-center px-4 py-2 rounded-full font-medium transition duration-300
-                ₹{5selectedCategory === category.id
+                ${selectedCategory === category.id
                   ? 'bg-blue-600 text-white shadow-md'
                   : 'bg-gray-200 text-gray-700 hover:bg-blue-100 hover:text-blue-700'
                 }`}

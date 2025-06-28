@@ -45,6 +45,7 @@ const App: React.FC = () => {
       <header className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white shadow-lg p-4 sticky top-0 z-50">
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center">
+            <img src="https://i.ibb.co/pjMr8L4n/be-Brand-Logo2.png" className="h-10 w-10 mr-2" alt="beBrand Logo" />
             <div className="text-2xl font-bold cursor-pointer" onClick={() => navigate('home')}>
               beBrand
             </div>
