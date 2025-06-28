@@ -57,15 +57,16 @@ const AboutPage: React.FC = () => {
             </p>
           </div>
         </div>
-        <div className="lg:order-1 flex justify-center items-center">
+    
+      </section>
+      <div className="lg:order-1 flex justify-center items-center">
           <img
             src="https://i.ibb.co/Kxyh0cSp/bebrand-journey.png" // Image of hands working on design/print or vibrant Indian art
             alt="The beBrand Journey"
-            className="rounded-2xl shadow-xl w-full max-w-lg h-auto object-cover transform transition duration-500 hover:scale-105"
+            className="rounded-2xl shadow-xl w-full  h-auto max-h-96 object-cover transform transition duration-500 hover:scale-105"
             loading="lazy"
           />
         </div>
-      </section>
 
       ---
 
